@@ -68,7 +68,7 @@
     "@typescript-eslint/parser": "^5.10.0",
     "axios-debug-log": "^0.8.4",
     "babel-loader": "^8.2.3",
-    "chai": "^4.3.4",
+    "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
     "codeceptjs": "^3.2.3",
     "copy-webpack-plugin": "^10.2.0",
